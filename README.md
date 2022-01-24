@@ -10,9 +10,9 @@ Steps---------------------------------------------------------------------------
 
 Step 1: Fetched historical data of Bitcoin with yfinance library.
 
-Step 2: Calculate the short term and long term rolling moving averages. (Note- I have taken a crossover of 100 day MA by 20 day MA in consideration)
+Step 2: Calculated the short term and long term rolling moving averages. (Note- I have taken a crossover of 100 day MA by 20 day MA in consideration)
 
-Step 3: See the joining points. According to this strategy if recent average price gets more than long term average price then it creates a bullish signal and there is an uptrend suggesting to invest onto this particular stock. Look at the image below for the buy-sell signals
+Step 3: According to this strategy if recent average price gets more than long term average price then it creates a bullish signal and there is an uptrend suggesting to invest onto this particular stock. Look at the image below for the buy-sell signals
 
 Bitcoin Historical data from Sep,2020 to Jan 2022 (+2 years)
 ![image](https://user-images.githubusercontent.com/73078264/150806878-37c60e44-8b74-4b0e-96ed-5d63f3797156.png)
