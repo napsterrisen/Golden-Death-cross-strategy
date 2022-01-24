@@ -14,11 +14,23 @@ Step 2: Calculate the short term and long term rolling moving averages. (Note- I
 
 Step 3: See the joining points. According to this strategy if recent average price gets more than long term average price then it creates a bullish signal and there is an uptrend suggesting to invest onto this particular stock. Look at the image below for the buy-sell signals
 
-MA(20 days) | MA(100 days) | Bitcoin Historical data from Sep,2020 to Jan 2022 (+2 years)
+Bitcoin Historical data from Sep,2020 to Jan 2022 (+2 years)
 ![image](https://user-images.githubusercontent.com/73078264/150806878-37c60e44-8b74-4b0e-96ed-5d63f3797156.png)
 
 ## Insights:
-Now suppose if a person bought a bitcoin on Oct 1, 2020
+Now suppose if a person bought a bitcoin on Oct 1, 2020 at closing price of 10.53k and sells it after 2 years at 33.4k
+Total gain on investment = 22.86k
+ROI                      = 217.18%
+
+If we go with the Golden-Death cross strategy, we will be doing two swings as shown in the image above:
+First swing: 43.5k-10.53k = 32.97k
+Second swing: 47.24k-45.5k = 1.74k
+
+Total gain on investment = 34.71k  + saving a loss of -13.84k (33.4k-47.24k) by exiting at earlier stage
+ROI                      = 329.62%
+
 
 ## Conclusion:
-
+By using this strategy we would have made a 330% return in 2 years which is 100% as compared to bitcoin price volatility. As we all can see that crypto is crashing like hell, this startegy could have saved us by giving an exit signal and thus saving 13.84k $ in current situation.
+ 
+To summarize, A golden cross occurs when a short-term MA crosses above a long term MA. A death cross occurs when a short term MA crosses below a long term MA. They can both be used as reliable tools for confirming long-term trend reversals in the stock market, forex, or cryptocurrency.
