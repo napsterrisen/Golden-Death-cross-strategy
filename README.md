@@ -6,7 +6,7 @@ There is some variation of opinion as to precisely what constitutes this meaning
 
 ## Implementation:
 
-Steps-----------------------------------------------------------------------------------------------------------------------------------------------------
+Steps---------------------------------------------------------------------------------------------------------
 
 Step 1: Fetched historical data of Bitcoin with yfinance library.
 
