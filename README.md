@@ -1,7 +1,7 @@
 # Golden-cross-Death-cross
 A golden cross suggests a long-term bull market going forward, while a death cross suggests a long-term bear market.
 
-There is some variation of opinion as to precisely what constitutes this meaningful moving average crossover. Some analysts define it as a crossover of the 100-day moving average by the 50-day moving average; others define it as the crossover of the 200-day average by the 50-day average.
+There is some variation of opinion as to precisely what constitutes this meaningful moving average crossover. Some analysts define it as a crossover of the 100-day moving average by the 50-day moving average; others define it as the crossover of the 200-day average by the 50-day average. (Note- I have taken a crossover of 100 day MA by 20 day MA in consideration)
 
 
 ## Implementation:
@@ -10,7 +10,7 @@ Steps---------------------------------------------------------------------------
 
 Step 1: Fetched historical data of Bitcoin with yfinance library.
 
-Step 2: Calculated the short term and long term rolling moving averages. (Note- I have taken a crossover of 100 day MA by 20 day MA in consideration)
+Step 2: Calculated the short term and long term rolling moving averages. 
 
 Step 3: According to this strategy if recent average price gets more than long term average price then it creates a bullish signal and there is an uptrend suggesting to invest onto this particular stock. Look at the image below for the buy-sell signals
 
