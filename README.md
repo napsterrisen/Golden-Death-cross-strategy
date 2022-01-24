@@ -33,6 +33,6 @@ Total gain on investment = 34.71k  + saving a loss of -13.84k (33.4k-47.24k) by 
 
 
 ## Conclusion:
-By using this strategy we would have made a 330% return in 2 years which is 100% as compared to bitcoin price volatility. As we all can see that crypto is crashing like hell, this startegy could have saved us by giving an exit signal and thus saving 13.84k $ in current situation.
+By using this strategy we would have made a 330% return in 2 years which is 100% more as compared to bitcoin price volatility. As we all can see that crypto is crashing like hell, this startegy could have saved us by giving an exit signal and thus saving 13.84k $ in current situation.
  
 To summarize, A golden cross occurs when a short-term MA crosses above a long term MA. A death cross occurs when a short term MA crosses below a long term MA. They can both be used as reliable tools for confirming long-term trend reversals in the stock market, forex, or cryptocurrency.
