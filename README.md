@@ -19,15 +19,17 @@ Bitcoin Historical data from Sep,2020 to Jan 2022 (+2 years)
 
 ## Insights:
 Now suppose if a person bought a bitcoin on Oct 1, 2020 at closing price of 10.53k and sells it after 2 years at 33.4k
+
 Total gain on investment = 22.86k
-ROI                      = 217.18%
+, ROI                      = 217.18%
 
 If we go with the Golden-Death cross strategy, we will be doing two swings as shown in the image above:
+
 First swing: 43.5k-10.53k = 32.97k
+
 Second swing: 47.24k-45.5k = 1.74k
 
-Total gain on investment = 34.71k  + saving a loss of -13.84k (33.4k-47.24k) by exiting at earlier stage
-ROI                      = 329.62%
+Total gain on investment = 34.71k  + saving a loss of -13.84k (33.4k-47.24k) by exiting at earlier stage, ROI                      = 329.62%
 
 
 ## Conclusion:
